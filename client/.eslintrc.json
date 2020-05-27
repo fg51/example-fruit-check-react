@@ -3,7 +3,9 @@
     "project": "./tsconfig.json"
   },
   "extends": [
-    "react-app"
+    "react-app",
+    "prettier/@typescript-eslint",
+    "prettier/react"
   ],
   "plugins": ["prettier"],
   "rules": {
