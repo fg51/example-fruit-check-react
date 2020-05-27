@@ -4,7 +4,6 @@
   },
   "extends": [
     "react-app",
-    "prettier/@typescript-eslint",
     "prettier/react"
   ],
   "plugins": ["prettier"],
