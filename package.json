@@ -1,0 +1,23 @@
+{
+  "name": "example-fruit-check",
+  "version": "0.0.0-develop",
+  "description": "check sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kflange@github.com/kflange/example-fruit-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kflange/example-fruit-check/issues"
+  },
+  "homepage": "https://github.com/kflange/example-fruit-check#readme",
+  "devDependencies": {
+    "@ionic/cli": "6.9.2"
+  }
+}
